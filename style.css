@@ -1,0 +1,46 @@
+html {
+    height: 100%;
+}
+
+
+body {
+    margin:0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: linear-gradient(to bottom right, #48C2C5, #028CA4 ,#01728B);
+    background-repeat: no-repeat;
+
+}
+
+.col-sm-6{
+
+    font-family: 'Raleway', sans-serif;
+    margin: 10px;
+}
+
+.col-sm-4{
+    font-family: 'Oswald', sans-serif;
+    margin: 10px;
+}
+
+#pixLo {
+    margin: 0 0 10px 0;;
+    width: 55px;
+    height: 55px;
+}
+
+.fontL{
+    font-family: 'Raleway', sans-serif;
+    text-indent: 18px;
+}
+
+#fontM{
+    margin: 0 0 5px 0;;
+    width: 100px;
+    height: 100px;
+}
+
+#wpanel{
+    background-color: #FFFFFF;
+    text-align: left;
+}
